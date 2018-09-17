@@ -1,4 +1,4 @@
-FROM openshift/base-centos7
+FROM Sandbox-WMS-TK/base-centos7
 
 MAINTAINER Thomas Philipona <philipona@puzzle.ch>
 
